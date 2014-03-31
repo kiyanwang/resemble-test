@@ -1,0 +1,28 @@
+{
+  "name": "resemble-test",
+  "version": "0.0.0",
+  "description": "quick test to see how resemble.js works",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kiyanwang/resemble-test.git"
+  },
+  "keywords": [
+    "resemble",
+    "testing",
+    "image",
+    "compare"
+  ],
+  "author": "ns@talis.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kiyanwang/resemble-test/issues"
+  },
+  "homepage": "https://github.com/kiyanwang/resemble-test",
+  "dependencies": {
+    "resemble": "^1.0.3"
+  }
+}
